@@ -3,3 +3,8 @@ node_modules/
 
 # Theme
 themes/next/
+
+# created source
+public/
+.deploy_git/
+db.json
